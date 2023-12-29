@@ -63,6 +63,15 @@ Follow the instructions on the graphical user interface for voter interactions.
 
 - Update the MySQL connection details in the relevant scripts.
 
+## Team Members
+
+This project was done as a team for a special topic 2 as part of the college curriculum. The team members are:
+
+- V S Nithya Shree
+- P R Shashank
+- Kavana N
+- N S Umashankar
+
 ## Note
 
 - This project is designed for educational purposes. Ensure proper security measures for real-world use.

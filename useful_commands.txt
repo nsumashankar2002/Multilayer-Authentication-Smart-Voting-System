@@ -1,0 +1,17 @@
+-- Create the party table
+CREATE TABLE party (
+    party_name VARCHAR(255) PRIMARY KEY,
+    vote_count INT NOT NULL DEFAULT 0
+);
+
+-- Insert initial data into the party table
+INSERT INTO party (party_name, vote_count)
+VALUES
+    ('Aam Aadmi Party', 0),
+    ('BJP', 0),
+    ('Congress', 0),
+    ('NOTA', 0),
+    ('Shiv Sena', 0);
+
+-- Reset the vote_count values to zero for all parties
+UPDATE party SET vote_count = 0;

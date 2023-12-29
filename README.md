@@ -1,4 +1,4 @@
-# Face Recognition Voting System with Admin Panel
+# Multilayer-Authentication-Smart-Voting-System
 
 ## Overview
 
